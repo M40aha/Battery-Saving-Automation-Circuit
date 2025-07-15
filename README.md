@@ -50,12 +50,15 @@ Short leg → GND
 
 220Ω resistor in series
 
+
+
+
+
 📝 Code
 Below is the full Arduino code used in the project:
 
 cpp
-نسخ
-تحرير
+
 // battery_saver.ino
 // Turns ON when button pressed or sensor triggered
 // Stays ON for timeout period, then turns OFF
